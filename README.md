@@ -1,6 +1,4 @@
-# petrochemical-refinery-ldar-voc-analysis-powerbi
-
-# 📊 Petrochemical Refinery LDAR VOC Emission Analysis Dashboard
+# 📊 Industrial - Petrochemical Refinery LDAR VOC Emission Analysis Dashboard
 A Power BI dashboard project for analyzing VOC emissions and Leak Detection & Repair (LDAR) performance in a petrochemical refinery environment.
 
 ## 📖 Project Overview
